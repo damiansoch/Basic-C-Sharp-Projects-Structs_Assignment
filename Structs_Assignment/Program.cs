@@ -8,7 +8,7 @@ namespace Structs_Assignment
         {
             Class1.Number number = new Class1.Number();
 
-            number.Amount = 5;
+            number.Amount = 5.1265M;
 
             Console.WriteLine("Amount is: {0}", number.Amount);
             Console.ReadLine();
